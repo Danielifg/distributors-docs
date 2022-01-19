@@ -1,8 +1,7 @@
 # Bright Union - Distributors Protocol
 
 The BrightUnion protocol is a set of solidity contracts that offer easy integration of decentralized risk coverage services from multiple vendors. 
-The protocol implements an independent aggregator pattern that allows for seamless onboarding of any new risk platform on a multi-block-chain approach over a hybrid mix of on and off-chain interactions.
-
+The protocol implements an independent aggregator pattern that allows for seamless onboarding of any new risk platform.
  - Swagger Documentation:
    [api.brightunion.io/protocol/api-docs](http://api.brightunion.io/protocol/api-docs) 
 
