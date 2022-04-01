@@ -2,8 +2,6 @@
 
 The BrightUnion protocol is a set of solidity contracts that offer easy integration of decentralized risk coverage services from multiple vendors. 
 The protocol implements an independent aggregator pattern that allows for seamless onboarding of any new risk platform.
- - Swagger Documentation:
-   [api.brightunion.io/protocol/api-docs](http://api.brightunion.io/protocol/api-docs) 
 
 - Supported Platforms:
     - [Insurace](https://www.insurace.io/)
